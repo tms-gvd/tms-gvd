@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **tms-gvd/tms-gvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[hugging face account 🤗](https://huggingface.co/tms-gvd)
+
+*Featured repositories*
+
+- [my resume](https://github.com/tms-gvd/resume)
+- [LeRobot hackathon🥈](https://github.com/gabswb/AMD_Robotics_Hackathon) | [demo](https://www.youtube.com/watch?v=8alF68IjLUA)
+- [AI Control hackathon🥈](hackos-5-quickstart) | [report](https://github.com/tms-gvd/hackos-5-quickstart/blob/main/A_MonitorBuilding/report/latex/main.pdf)
+- [AI Safety - output guardrail for MH](https://huggingface.co/mila-ai4h/Mila-Suicide-Prevention-Output-Guardrail)
+- [LeChess♟️](https://github.com/tms-gvd/lechess)
+- [I used to type with that⌨️](https://github.com/tms-gvd/qmk-config)
